@@ -42,6 +42,9 @@ First, sign in to the [Azure portal](https://portal.azure.com) and then select *
 
 3. Try connecting to your VM again.
 
+[!NOTE]
+> One can create a new user/password to the Virtual Machine by giving a unique username and password in the reset password tab.
+
 ### **Reset the Remote Desktop Services configuration**
 
 This process will enable Remote Desktop service in the VM, and create a firewall rule for the default RDP port 3389.
